@@ -1,4 +1,4 @@
-# P1003 Soldier who Crossed the River
+# P1002 Soldier who Crossed the River
 
 It's Chinese name is "过河卒". The translation is not very proper.
 
